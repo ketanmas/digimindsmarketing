@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Hello world!	</title>
-	<atom:link href="/https://ketanmas.github.io/digimindsmarketing/hello-world/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://ketanmas.github.io/digimindsmarketing/hello-world/</link>
+	<atom:link href="https://ketanmas.github.io/digimindsmarketing/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ketanmas.github.io/digimindsmarketing/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 19 Oct 2022 08:58:10 +0000</lastBuildDate>
 	<sy:updatePeriod>

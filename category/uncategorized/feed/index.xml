@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Digi Minds Marketing</title>
-	<atom:link href="/https://ketanmas.github.io/digimindsmarketing/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>/https://ketanmas.github.io/digimindsmarketing</link>
+	<atom:link href="https://ketanmas.github.io/digimindsmarketing/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ketanmas.github.io/digimindsmarketing</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Wed, 19 Oct 2022 08:58:10 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>/https://ketanmas.github.io/digimindsmarketing/hello-world/</link>
-					<comments>/https://ketanmas.github.io/digimindsmarketing/hello-world/#respond</comments>
+		<link>https://ketanmas.github.io/digimindsmarketing/hello-world/</link>
+					<comments>https://ketanmas.github.io/digimindsmarketing/hello-world/#respond</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 19 Oct 2022 08:58:10 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/https://ketanmas.github.io/digimindsmarketing/?p=1</guid>
+		<guid isPermaLink="false">https://ketanmas.github.io/digimindsmarketing/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/https://ketanmas.github.io/digimindsmarketing/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ketanmas.github.io/digimindsmarketing/hello-world/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
